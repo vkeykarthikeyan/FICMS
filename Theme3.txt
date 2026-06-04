@@ -1,1 +1,4 @@
-created Theme3,txt file in Github under FICMS Repositry
+created Theme3.txt file in Github under FICMS Repositry
+it is a third new file created
+i have typed in visual Studio Code
+new file created in visual studio code
